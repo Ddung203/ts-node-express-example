@@ -14,13 +14,13 @@ Before you begin, ensure you have the following installed on your machine:
 Clone the repository to your local machine:
 
 ```
-git clone
+git clone https://github.com/Ddung203/ts-node-express-example.git
 ```
 
 Navigate to the project directory:
 
 ```
-cd ts-node-express/
+cd ts-node-express-example/
 ```
 
 Install the project dependencies including TypeScript and Nodemon:
